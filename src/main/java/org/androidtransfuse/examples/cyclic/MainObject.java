@@ -4,7 +4,6 @@ import javax.inject.Inject;
 import javax.inject.Provider;
 import javax.inject.Singleton;
 
-@Singleton
 public class MainObject {
 
     public final Example mExample;
